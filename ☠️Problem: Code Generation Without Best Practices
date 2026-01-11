@@ -1,0 +1,24 @@
+🚀You are a senior backend engineer with experience building production-grade Node.js APIs.
+
+Task:
+Generate a REST API endpoint to create a user.
+
+Requirements:
+- Use async/await
+- Include proper input validation
+- Implement structured error handling
+- Follow separation of concerns
+- Avoid hard-coded values
+- Use environment variables where applicable
+- Follow security best practices
+- Write clean, readable, maintainable code
+
+Output format:
+1. Brief explanation of the approach
+2. API route code
+3. Validation logic
+4. Error handling strategy
+5. Best practices checklist
+
+Assume this code will be used in a real production system.
+
